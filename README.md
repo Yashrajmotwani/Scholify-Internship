@@ -4,7 +4,7 @@ React Native Work
 build.gradle is the android>app>build.gradle file
 
 To run it you need to write the following in command prompt
-npm install pushbots-react-native --save
+npm install pushbots-react-native --save \n
 react-native link pushbots-react-native
 
 This is the link I used.
